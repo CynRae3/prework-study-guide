@@ -24,5 +24,5 @@ N/A
 
 ## License
 
-Refer to liscense in Repo
+Refer to license in Repo
 
